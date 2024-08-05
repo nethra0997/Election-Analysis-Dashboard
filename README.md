@@ -4,28 +4,20 @@ This Tableau dashboard provides an in-depth analysis of Twitter trends related t
 # Key Features:
 
 ## Tweet Volume Overview:
-A comprehensive summary of the total number of tweets mentioning Biden and Trump.
+A comprehensive heatmap of the total number of tweets mentioning Biden and Trump.
 Visual comparison of tweet volumes between the two candidates over time.
 
 ## Sentiment Analysis:
 Sentiment breakdown of tweets (positive, negative, neutral) for both candidates.
 Helps in understanding the general public opinion and mood towards each candidate.
 
-## Time Series Analysis:
-Line charts showing daily tweet trends for Biden and Trump.
-Allows users to observe spikes in tweet activity and correlate them with key events and dates during the election campaign.
-
-## Top Hashtags:
+## Top Hashtags and Tweets:
 Identification of the most frequently used hashtags related to each candidate.
 Provides insights into the topics and themes driving the conversation on Twitter.
 
 ## Geographical Analysis:
 Map visualizations showing tweet densities and sentiment distribution across different states.
 Highlights regions with the highest levels of engagement and sentiment towards each candidate.
-
-## Word Clouds:
-Visualization of the most commonly used words in tweets for Biden and Trump.
-Offers a quick view of the key topics and issues associated with each candidate.
 
 ## Interactive Elements:
 Filters: Users can filter data by date range, sentiment, and geographical location to focus on specific trends and insights.
